@@ -62,6 +62,7 @@ Teacher: 	**Claudia d'Amato**
 Speaker:    **Ivan Diliso**
 
 
+
 > Computer Science Department 
 > University of Bari Aldo Moro
 
