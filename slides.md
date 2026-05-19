@@ -4,7 +4,7 @@ title: PyKeen Tutorial
 paginate: true
 theme: godel
 _class: lead
-footer: "Machine Learning 2024/2025"
+footer: "Machine Learning 2025/2026"
 author: "Ivan Diliso"
 math: katex
 style: |  # Make sure 'style:' is correctly indented and followed by a pipe '|'
@@ -41,8 +41,8 @@ h2 {
 
 $$
 % Custom Functions
-\gdef\c#1{\mathcal{#1}}
-\gdef\bf#1{\mathbf{#1}}
+\gdef\c#1{\mathcal{#1}} 
+\gdef\bf#1{\mathbf{#1}} 
 \gdef\bb#1{\mathbb{#1}}
 $$
 
@@ -54,7 +54,7 @@ $$
 # *Tutorial on PyKEEN Ecosystem* From Training and Evaluation to Hyperparameter Optimization
 
 ### Machine Learning
-### A.A. 2024-2025
+### A.A. 2025-2026
 
 <br/>
 
@@ -300,8 +300,9 @@ After any execution, both from custom training and pipeline, any result can be *
 # **Visualize** Learned Embeddings
 
 <div class="two-columns">
+ <img src="img/kg.png" width="30%" alt="Description of Image 2">
   <img src="img/emb.png" width="40%" alt="Description of Image 1">
-  <img src="img/kg.png" width="30%" alt="Description of Image 2">
+ 
 </div>
 
 <!-- _footer: Image Source: https://wasit7.medium.com/tutorial-knowledge-graph-embedding-with-pykeen-22d3b7847cea 
