@@ -90,7 +90,7 @@ Knowledge Graph Embedding, Neuro-Symbolic AI, Ontologies and Ontology Injection
 
 
 ### **Cloud Computing**:​
-- **Google Colab​** You can access all the code materials from this link: [![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)​](https://colab.research.google.com/drive/1svs7cWEHyo3GAgvajAtjzOtqCUw9R7G1?usp=share_link​)
+- **Google Colab​** You can access all the code materials from this link: ![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9A825.svg?style=for-the-badge&logo=googlecolab&logoColor=white)​
 
 
 ### **Local Machine**:​
@@ -198,7 +198,7 @@ PyKEEN supports KGs represented as *RDF* and as *tab-separated values*
 
 <div>
 <center>
-<a href="https://colab.research.google.com/drive/1svs7cWEHyo3GAgvajAtjzOtqCUw9R7G1?usp=share_link"><img src="img/lab.png" width="40%" ></a>
+<a href="https://drive.google.com/file/d/1vXGlh9nqyxEaBpb2vyGoUEkJoyTse-W1/view?usp=sharing"><img src="img/lab.png" width="40%" ></a>
 </div>
 
 ---
@@ -249,7 +249,7 @@ There are several possible configurations, PyKeen supports a large pool of Model
 
 <div>
 <center>
-<a href="https://colab.research.google.com/drive/1svs7cWEHyo3GAgvajAtjzOtqCUw9R7G1?usp=share_link"><img src="img/lab.png" width="40%" ></a>
+<a href="https://drive.google.com/file/d/1vXGlh9nqyxEaBpb2vyGoUEkJoyTse-W1/view?usp=sharing"><img src="img/lab.png" width="40%" ></a>
 </div>
 
 ---
@@ -264,7 +264,7 @@ There are several possible configurations, PyKeen supports a large pool of Model
 
 <div>
 <center>
-<a href="https://colab.research.google.com/drive/1svs7cWEHyo3GAgvajAtjzOtqCUw9R7G1?usp=share_link"><img src="img/lab.png" width="40%" ></a>
+<a href="https://drive.google.com/file/d/1vXGlh9nqyxEaBpb2vyGoUEkJoyTse-W1/view?usp=sharing"><img src="img/lab.png" width="40%" ></a>
 </div>
 
 ---
@@ -291,7 +291,7 @@ After any execution, both from custom training and pipeline, any result can be *
 
 <div>
 <center>
-<a href="https://colab.research.google.com/drive/1svs7cWEHyo3GAgvajAtjzOtqCUw9R7G1?usp=share_link"><img src="img/lab.png" width="40%" ></a>
+<a href="https://drive.google.com/file/d/1vXGlh9nqyxEaBpb2vyGoUEkJoyTse-W1/view?usp=sharing"><img src="img/lab.png" width="40%" ></a>
 </div>
 
 ---
@@ -317,7 +317,7 @@ Lets use the learned embeddings to visualize our data!
 
 <div>
 <center>
-<a href="https://colab.research.google.com/drive/1svs7cWEHyo3GAgvajAtjzOtqCUw9R7G1?usp=share_link"><img src="img/lab.png" width="100%" ></a>
+<a href="https://drive.google.com/file/d/1vXGlh9nqyxEaBpb2vyGoUEkJoyTse-W1/view?usp=sharing"><img src="img/lab.png" width="100%" ></a>
 </div>
 
 ![bg right:60% 90%](img/learn.png)
@@ -336,7 +336,7 @@ Lets use the learned embeddings to visualize our data!
 
 <div>
 <center>
-<a href="https://colab.research.google.com/drive/1svs7cWEHyo3GAgvajAtjzOtqCUw9R7G1?usp=share_link"><img src="img/lab.png" width="40%" ></a>
+<a href="https://drive.google.com/file/d/1vXGlh9nqyxEaBpb2vyGoUEkJoyTse-W1/view?usp=sharing"><img src="img/lab.png" width="40%" ></a>
 </div>
 
 
