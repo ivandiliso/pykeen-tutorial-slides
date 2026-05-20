@@ -58,7 +58,7 @@ $$
 
 <br/>
 
-Teacher: 	**Claudia d'Amato**
+
 Speaker:    **Ivan Diliso**
 
 
